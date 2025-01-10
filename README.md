@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+## AzureOpenAI Credentials 
+
+To configure the OpenAI Langchain with Azure Credentials, edit the `./.env.local` file.
